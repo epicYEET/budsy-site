@@ -30,6 +30,8 @@ font-weight: bold;
 </style>
 </head>
 <body>
+</script>
+</body>
 <!DOCTYPE html>
 <html>
 <head>
@@ -99,4 +101,5 @@ document.getElementById('new-review').value = '';
 </body>
 </html>
 </body>
+
 </html>
